@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "459026385304",
+    "firebase_url": "https://pushnotificatindemo-264bb.firebaseio.com",
+    "project_id": "pushnotificatindemo-264bb",
+    "storage_bucket": "pushnotificatindemo-264bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459026385304:android:ad16893e4e47949798c3ed",
+        "android_client_info": {
+          "package_name": "com.example.pushnotificatindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459026385304-6g6kcjt663aube8eb7s5un9st0tf51gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzY_cykuXbRVulPTavuSTtLSElhRP9UFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459026385304-6g6kcjt663aube8eb7s5un9st0tf51gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
